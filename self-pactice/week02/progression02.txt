@@ -1,0 +1,2 @@
+โจทย์ในไฟล์ week02.js ได้มาจาก AI
+ได้เรียนรู้การสร้าง Object Literal ,Constructor Function ,Object.create() ,การเปรียบเทียบค่า property (ISBN) แบบ case-insensitive ด้วย .toLowerCase()
