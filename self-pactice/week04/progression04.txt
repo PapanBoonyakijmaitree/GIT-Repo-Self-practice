@@ -1,0 +1,2 @@
+โจทย์ในไฟล์ week04.js ได้มาจาก AI
+ด้เรียนรู้การใช้ Array methods map, filter, reduce
