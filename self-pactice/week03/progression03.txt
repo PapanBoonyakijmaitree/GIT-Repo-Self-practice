@@ -1,0 +1,2 @@
+โจทย์ในไฟล์ week03.js ได้มาจาก AI
+ได้เรียนเกี่ยวกับ rest parameter, higher-order function, callback function
