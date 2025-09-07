@@ -1,0 +1,1 @@
+ได้เรียนรู้การเขียนฟังก์ชันพื้นฐานเพื่อ เพิ่ม property ให้ object, รวม object, แปลง string ใน array
